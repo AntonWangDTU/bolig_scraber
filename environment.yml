@@ -11,10 +11,10 @@ dependencies:
   - google-auth-oauthlib
   - google-api-python-client
   - gspread
-  - vlc
-  - re
   - jsonschema
   - pip
   - pip:
     - pprintpp
+    - python-vlc
+    - re
 
